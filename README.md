@@ -4,9 +4,9 @@ Replication package of the user study conducted for Docker Composer
 
 ## Contents
 
-* `\Data` - Contains the raw data as well as the complete dataset resulting from the aggregation of all data sources.
-* `\Forms`-  Contains the procedure instructions provided to participants.
-* `\Tasks` - Contains the task materials provided for each of the tasks.
+* `/data` - Contains the raw data as well as the complete dataset resulting from the aggregation of all data sources (main.csv).
+* `/forms`-  Contains the procedure instructions provided to participants.
+* `/tasks` - Contains the task materials provided for each of the tasks.
 
 ## Methodology
 
@@ -14,7 +14,7 @@ Controlled user study with two treatments - control and experimental. Participan
 
 ## Procedure
 
-The intructions were provided to the participants as a Google Form (available in `Forms`). The procedure is organized as follows: 
+The intructions were provided to the participants as a Google Form (available in `/forms`). The procedure is organized as follows: 
 
 1. Background questionnaire - set of questions to establish the participant's background.
 2. Tutorial - brief tutorial covering some basics of Docker Compose.
