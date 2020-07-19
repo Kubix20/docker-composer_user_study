@@ -1,6 +1,6 @@
 # Docker Composer Replication Package
 
-Replication package of the user study conducted for Docker Composer
+Replication package of the user study conducted to validate the **Docker Composer** visual approach for working with Docker Compose in comparison with conventional textual `docker-compose.yml` files.
 
 ## Contents
 
